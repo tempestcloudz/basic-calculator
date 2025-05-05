@@ -1,6 +1,7 @@
-# basic-calculator
+# Basic-calculator
 A WIP calculator coded in Java
 
-```
-things to note
-```
+
+## Things to note:
+- Working on looping functionality
+- Project likely has sloppy code, made by a complete beginner
